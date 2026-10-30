@@ -1,0 +1,8 @@
+{
+  "name": "ActionDraft",
+  "description": "Instantly turn meeting notes and raw transcripts into clear action-oriented email drafts with verified tasks, owners, and deadlines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
